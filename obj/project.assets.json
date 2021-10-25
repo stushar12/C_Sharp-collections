@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stush\\source\\repos\\Generic Datatypes\\Generic Datatypes.csproj",
+      "projectUniqueName": "D:\\chubb programming\\C# DotNet\\Generic Datatypes\\Generic Datatypes.csproj",
       "projectName": "Generic Datatypes",
-      "projectPath": "C:\\Users\\stush\\source\\repos\\Generic Datatypes\\Generic Datatypes.csproj",
+      "projectPath": "D:\\chubb programming\\C# DotNet\\Generic Datatypes\\Generic Datatypes.csproj",
       "packagesPath": "C:\\Users\\stush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stush\\source\\repos\\Generic Datatypes\\obj\\",
+      "outputPath": "D:\\chubb programming\\C# DotNet\\Generic Datatypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stush\\AppData\\Roaming\\NuGet\\NuGet.Config",

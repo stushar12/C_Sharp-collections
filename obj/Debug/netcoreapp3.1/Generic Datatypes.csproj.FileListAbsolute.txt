@@ -12,3 +12,17 @@ C:\Users\stush\source\repos\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Da
 C:\Users\stush\source\repos\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.dll
 C:\Users\stush\source\repos\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.pdb
 C:\Users\stush\source\repos\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.genruntimeconfig.cache
+D:\chubb programming\C# DotNet\Generic Datatypes\bin\Debug\netcoreapp3.1\Generic Datatypes.exe
+D:\chubb programming\C# DotNet\Generic Datatypes\bin\Debug\netcoreapp3.1\Generic Datatypes.deps.json
+D:\chubb programming\C# DotNet\Generic Datatypes\bin\Debug\netcoreapp3.1\Generic Datatypes.runtimeconfig.json
+D:\chubb programming\C# DotNet\Generic Datatypes\bin\Debug\netcoreapp3.1\Generic Datatypes.runtimeconfig.dev.json
+D:\chubb programming\C# DotNet\Generic Datatypes\bin\Debug\netcoreapp3.1\Generic Datatypes.dll
+D:\chubb programming\C# DotNet\Generic Datatypes\bin\Debug\netcoreapp3.1\Generic Datatypes.pdb
+D:\chubb programming\C# DotNet\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.csproj.AssemblyReference.cache
+D:\chubb programming\C# DotNet\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\chubb programming\C# DotNet\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.AssemblyInfoInputs.cache
+D:\chubb programming\C# DotNet\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.AssemblyInfo.cs
+D:\chubb programming\C# DotNet\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.csproj.CoreCompileInputs.cache
+D:\chubb programming\C# DotNet\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.dll
+D:\chubb programming\C# DotNet\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.pdb
+D:\chubb programming\C# DotNet\Generic Datatypes\obj\Debug\netcoreapp3.1\Generic Datatypes.genruntimeconfig.cache
